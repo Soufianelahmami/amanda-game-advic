@@ -47,11 +47,11 @@
   "my_data":[
   {"desc1":"description1 ser ",
    "photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc2":"Spend time learning the game's controls to ensure smooth and efficient movement of your character. Practice essential actions like walking, running, jumping, and interacting with objects.","photo2":"https://iili.io/HgwPma1.jpg"},
+  {"desc3":"Amanda often provides tutorial segments at the beginning of the game or during new gameplay mechanics.","photo3":"https://iili.io/HgwPb3P.jpg"},
+  {"desc4":"Take the time to absorb these tutorials as they provide essential information about game mechanics, combat techniques, and puzzle-solving strategies.","photo4":"https://iili.io/HgwPZGV.jpg"},
+  {"desc5":"Utilize save points strategically to avoid losing progress. Save your game before engaging in challenging battles or attempting difficult puzzles.","photo5":"https://iili.io/HgwPt6B.jpg"},
+  {"descd":"Amanda offers various character classes or playstyles. Assess your preferred approach to the game, be it a stealthy rogue, a powerful mage, or a sturdy warrior.","photod":"https://iili.io/HgwPp8F.jpg"}
    ]
  
 }
